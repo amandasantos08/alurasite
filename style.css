@@ -1,5 +1,5 @@
 body{
-	background: #cccccc;
+	background: #CCCCCC;
 }
 
 h1{
@@ -15,5 +15,5 @@ p{
  }
 
  em strong{
- 	color: red;
+ 	color: #FF0000;
  }
